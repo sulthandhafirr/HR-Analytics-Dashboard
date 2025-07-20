@@ -24,4 +24,4 @@ git clone https://github.com/sulthandhafirr/HR-Analytics-Dashboard.git
 - Dashboard Design: Sulthan Dhafir Rafief
 
 ---
-By: Sulthan Dhafir Rafief
+Developed by: Sulthan Dhafir Rafief
